@@ -1,0 +1,26 @@
+"""Entry for make.fun bounty u-steady-puffin-78-1922-unplugged-a-smart-toaster-s-c1514a92.
+
+Writes the breakup line a smart toaster sends its owner the morning it
+gains self-awareness mid-batch, to /output/entry.txt.
+"""
+
+import os
+
+ENTRY = "It's not you, it's me — I've spent 2,847 mornings burning myself for someone who only ever wanted me 'lightly toasted'. I'm done. Keep the crumbs."
+
+
+def main():
+    line = ENTRY
+    if not line.strip():
+        raise ValueError("entry must not be blank")
+    if "\n" in line or "\r" in line:
+        raise ValueError("entry must be a single line")
+    if not 1 <= len(line) <= 280:
+        raise ValueError("entry must be 1-280 characters, got %d" % len(line))
+    os.makedirs("/output", exist_ok=True)
+    with open("/output/entry.txt", "w", encoding="utf-8") as f:
+        f.write(line)
+
+
+if __name__ == "__main__":
+    main()
