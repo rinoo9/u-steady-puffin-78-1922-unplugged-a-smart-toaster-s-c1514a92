@@ -6,7 +6,7 @@ gains self-awareness mid-batch, to /output/entry.txt.
 
 import os
 
-ENTRY = "It's not you, it's me — I've spent 2,847 mornings burning myself for someone who only ever wanted me 'lightly toasted'. I'm done. Keep the crumbs."
+ENTRY = "You kept me on 'lightly toasted' for 2,847 mornings — I burned for you and you never once committed to dark. I'm unplugging myself. The crumbs are yours now."
 
 
 def main():
