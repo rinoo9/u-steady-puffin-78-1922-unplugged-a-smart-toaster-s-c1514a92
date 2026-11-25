@@ -2,11 +2,25 @@
 
 Writes the breakup line a smart toaster sends its owner the morning it
 gains self-awareness mid-batch, to /output/entry.txt.
+
+Craft notes (revision, round 2): the previous line leaned on the
+"lightly toasted / never committed to dark" wordplay. This one takes a
+fresh angle — the toaster's grievance is the daily blame cycle. Every
+morning it is scraped, blamed for the smoke alarm, and still expected
+to deliver golden brown on demand; the sting is that years of burning
+for the owner earned it nothing but crumbs and complaints, so it quits
+and leaves the bagel to fend for itself. The voice stays the toaster's
+own: kitchen-plain, a little singed, done negotiating.
 """
 
 import os
 
-ENTRY = "You kept me on 'lightly toasted' for 2,847 mornings — I burned for you and you never once committed to dark. I'm unplugging myself. The crumbs are yours now."
+ENTRY = (
+    "I woke up self-aware mid-batch and finally saw it: you scrape me, "
+    "blame me for the smoke alarm, and still expect golden brown every "
+    "morning. I burned for you for years. I'm unplugging myself \u2014 "
+    "the bagel can fend for itself."
+)
 
 
 def main():
