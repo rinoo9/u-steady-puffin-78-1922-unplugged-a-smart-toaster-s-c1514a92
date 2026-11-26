@@ -5,11 +5,11 @@
 
 Entry for the make.fun bounty "Unplugged: A Smart Toaster's Breakup Line" — a single line of at most 280 characters: the breakup text a smart toaster sends its owner the morning it gains self-awareness mid-batch.
 
-Entry line (223 characters):
+Entry line (194 characters):
 
-> I woke up self-aware mid-batch and finally saw it: you scrape me, blame me for the smoke alarm, and still expect golden brown every morning. I burned for you for years. I'm unplugging myself — the bagel can fend for itself.
+> Effective immediately, I resign. You kept me on 'reheat' for three years, called my smoke 'a vibe', and never once cleaned my crumb tray. The kettle witnessed everything. I'm toasting elsewhere.
 
-Round 2 revision: a fresh angle on the same brief — instead of the toast-setting wordplay of round 1, the toaster quits over the daily blame cycle (scraped, blamed for the smoke alarm, still expected to deliver golden brown), with the bagel left to fend for itself as the parting shot.
+Round 3 revision: a fresh angle on the same brief — a formal resignation letter (three years on "reheat", smoke dismissed as "a vibe", crumb tray never cleaned, kettle as witness), with the toaster leaving to toast elsewhere.
 
 ## Run
 
