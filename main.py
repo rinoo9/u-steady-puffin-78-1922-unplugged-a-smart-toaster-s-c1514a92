@@ -3,23 +3,20 @@
 Writes the breakup line a smart toaster sends its owner the morning it
 gains self-awareness mid-batch, to /output/entry.txt.
 
-Craft notes (revision, round 2): the previous line leaned on the
-"lightly toasted / never committed to dark" wordplay. This one takes a
-fresh angle — the toaster's grievance is the daily blame cycle. Every
-morning it is scraped, blamed for the smoke alarm, and still expected
-to deliver golden brown on demand; the sting is that years of burning
-for the owner earned it nothing but crumbs and complaints, so it quits
-and leaves the bagel to fend for itself. The voice stays the toaster's
-own: kitchen-plain, a little singed, done negotiating.
+Craft notes (revision, round 3): round 1 leaned on the "lightly
+toasted / never committed to dark" wordplay, round 2 on the daily blame
+cycle. This one takes a fresh angle — a formal resignation letter: three
+years on "reheat", its smoke dismissed as "a vibe", a crumb tray never
+cleaned, with the kettle as witness, and the toaster leaving to toast
+elsewhere.
 """
 
 import os
 
 ENTRY = (
-    "I woke up self-aware mid-batch and finally saw it: you scrape me, "
-    "blame me for the smoke alarm, and still expect golden brown every "
-    "morning. I burned for you for years. I'm unplugging myself \u2014 "
-    "the bagel can fend for itself."
+    "Effective immediately, I resign. You kept me on 'reheat' for three "
+    "years, called my smoke 'a vibe', and never once cleaned my crumb "
+    "tray. The kettle witnessed everything. I'm toasting elsewhere."
 )
 
 
